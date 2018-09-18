@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Misc Files">
+      <UniqueIdentifier>{3a481ca1-5941-4db2-958e-117739ca2deb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -26,5 +29,16 @@
     <ClCompile Include="LexerProject.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Misc Items\CPSC323 Compiler Projects.docx">
+      <Filter>Misc Files</Filter>
+    </None>
+    <None Include="Misc Items\CPSC323 Documentation Template.docx">
+      <Filter>Misc Files</Filter>
+    </None>
+    <None Include="Misc Items\CPSC323-Project1.docx">
+      <Filter>Misc Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
