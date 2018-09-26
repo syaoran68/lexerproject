@@ -1,0 +1,4 @@
+﻿  Lexier.cpp
+d:\projects\lexier\lexier\lexier.cpp(46): warning C4018: '<': signed/unsigned mismatch
+d:\projects\lexier\lexier\lexier.cpp(55): warning C4018: '<': signed/unsigned mismatch
+  Lexier.vcxproj -> D:\Projects\Lexier\Debug\Lexier.exe
